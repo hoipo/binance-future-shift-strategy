@@ -52,4 +52,5 @@ const main = async () => {
   }
 }
 
-main()
+setInterval(main, 60000);
+
