@@ -1,0 +1,17 @@
+{
+  "name": "binance-future-shift-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.4.3",
+    "node-binance-api": "^0.13.0",
+    "sqlite3": "^5.0.2"
+  }
+}
